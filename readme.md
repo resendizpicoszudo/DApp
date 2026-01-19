@@ -71,3 +71,13 @@ En particular te lo recomiendo si eres:
 Una vez termines el curso, serás todo un desarrollador de Blockchain. ¡Te esperamos en clase para que por fin disfrutes de la creación de Aplicaciones Distribuidas (DApps) con Tokens y que así puedas convertirte en todo un profesional!
 
 ¡Nos vemos en clase!
+
+
+### Cambio 1.
+Bla bla
+
+
+
+
+
+
