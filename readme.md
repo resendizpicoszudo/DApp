@@ -76,6 +76,8 @@ Una vez termines el curso, serás todo un desarrollador de Blockchain. ¡Te espe
 ### Cambio 1.
 Bla bla
 
+### Cambio 2
+trolelo trolala
 
 
 
